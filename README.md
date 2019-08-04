@@ -1,5 +1,7 @@
 # vue-app
 
+## This is my vue.js exercise, and the source from: [Tania's blog: getting started with vue](https://www.taniarascia.com/getting-started-with-vue/). Thank you Tania!
+
 ## Project setup
 ```
 npm install
